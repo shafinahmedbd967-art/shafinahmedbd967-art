@@ -90,9 +90,11 @@ I am a final-year **Computer Science & Engineering** undergraduate student at **
 
 <br>
 
-### 🏆 Achievement Collection
+## 🏆 Achievement Collection
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shafinahmedbd967-art&theme=algolia&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shafinahmedbd967-art&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
 
 <br><br>
 
