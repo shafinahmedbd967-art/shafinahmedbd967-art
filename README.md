@@ -85,25 +85,68 @@ I am a final-year **Computer Science & Engineering** undergraduate student at **
 ## 📊 Git Metrics & Analytics
 
 <div align="center">
-  
-  ### 🏆 GitHub Trophies
-  [![github trophy](https://github-profile-trophy.vercel.app/?username=shafinahmedbd967-art&theme=flat&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <br />
+# 🏆 Achievements & Analytics
 
-  ### 📈 Core Stats & Streak Analysis
-  <img src="https://github-readme-stats.vercel.co/api?username=shafinahmedbd967-art&show_icons=true&theme=buefy&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafinahmedbd967-art&theme=buefy&hide_border=true" width="48%" alt="GitHub Streak" />
+### 🏅 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=shafinahmedbd967-art&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <br />
-  
-  ### 🔄 Activity Overview
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafinahmedbd967-art&theme=github-light&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<br><br>
 
-  <br />
+# 📈 Academic & Development Statistics
 
-  ### 🐍 Contribution Contribution Matrix
-  ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/shafinahmedbd967-art/shafinahmedbd967-art/output/github-contribution-grid-snake.svg)
+<img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=shafinahmedbd967-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+/>
+
+<img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=shafinahmedbd967-art&theme=tokyonight&hide_border=true"
+/>
+
+<br><br>
+
+# 💻 Most Used Languages
+
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafinahmedbd967-art&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+<br><br>
+
+# 🔄 Contribution Activity
+
+<img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shafinahmedbd967-art&theme=tokyo-night&hide_border=true&area=true"
+/>
+
+<br><br>
+
+# 🐍 Contribution Snake Animation
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shafinahmedbd967-art/shafinahmedbd967-art/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shafinahmedbd967-art/shafinahmedbd967-art/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/shafinahmedbd967-art/shafinahmedbd967-art/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<br><br>
+
+### 👀 Profile Visitors
+
+<img
+    src="https://komarev.com/ghpvc/?username=shafinahmedbd967-art&label=Profile%20Views&color=0e75b6&style=flat"
+/>
 
 </div>
 
