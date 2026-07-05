@@ -1,7 +1,7 @@
 # Hello, World! I'm Shafin Ahmed 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2B6CB0&background=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;AI+Engineer+In+The+Making;Academic+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2B6CB0&background=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;AI+Engineer+In+The+Making;Interested+in+Academic+Researcher" alt="Typing SVG" />
 </div>
 
 ---
@@ -115,9 +115,3 @@ I am a final-year **Computer Science & Engineering** undergraduate student at **
 📍 Goal Hierarchy:
  └── Short to Mid-Term: Secure a Strong Research or Junior Data Scientist Position
       └── Long-Term Dream: Data Scientist / AI Engineer / Academic Faculty Member
----
-
-<div align="center">
-  <p><i>"Knowing yourself is the beginning of all wisdom."</i></p>
-  <img src="https://profile-counter.glitch.me/shafinahmedbd967-art/count.svg" alt="Visitor Counter" />
-</div>
