@@ -82,57 +82,178 @@ I am a final-year **Computer Science & Engineering** undergraduate student at **
 
 ---
 
-## 📊 Analytics Dashboard
+---
+
+# 🇧🇩 Data Science & Research Dashboard
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,100:2563EB&text=GitHub%20Analytics&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Bangladesh%20%7C%20Research%20%7C%20Data%20Science&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&color=0:006A4E,50:F42A41,100:006A4E"/>
 
 <br>
 
-## 🏆 Achievement Collection
+<table>
+<tr>
+<td width="50%" align="center">
+
+## 🎓 Academic Excellence
+
+```text
+🏫 Institution
+Daffodil International University
+
+🎯 Current CGPA
+3.90 / 4.00
+
+🥇 Scholarship
+50% Tuition Waiver
+
+📚 Academic Status
+Final Year CSE Student
+
+🎓 Expected Graduation
+July 2027
+```
+
+</td>
+
+<td width="50%" align="center">
+
+## 🚀 Career Vision
+
+```text
+🔬 Research Scientist
+        ▲
+        │
+🤖 AI Engineer
+        ▲
+        │
+📊 Data Scientist
+        ▲
+        │
+👨‍🏫 Academic Faculty
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shafinahmedbd967-art&theme=algolia&no-frame=true&row=1&column=7" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=shafinahmedbd967-art&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em"
+src="https://streak-stats.demolab.com?user=shafinahmedbd967-art&theme=transparent&hide_border=true"/>
+
 </p>
 
-<br><br>
+---
 
-### 📈 Statistics Dashboard
+## 📊 Contribution Activity
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=shafinahmedbd967-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170"
-src="https://streak-stats.demolab.com?user=shafinahmedbd967-art&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-### 💻 Language Analytics
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafinahmedbd967-art&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-### 📊 Contribution Activity
+<p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=shafinahmedbd967-art&theme=tokyo-night&hide_border=true&area=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=shafinahmedbd967-art&bg_color=ffffff&color=006A4E&line=F42A41&point=006A4E&area=true&hide_border=true"/>
 
-<br><br>
+</p>
 
-### ⚡ Contribution Snake
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/shafinahmedbd967-art/shafinahmedbd967-art/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake"
-    src="https://raw.githubusercontent.com/shafinahmedbd967-art/shafinahmedbd967-art/output/github-contribution-grid-snake.svg">
-</picture>
+## 🧠 Knowledge Growth Matrix
 
-<br><br>
+```text
+📚 Academic Excellence      ████████████████████ 95%
 
+📊 Data Science             █████████████████░░ 85%
+
+🤖 Machine Learning         ██████████████░░░░ 70%
+
+🧠 Artificial Intelligence  ████████████░░░░░░ 60%
+
+🔬 Research                 ███████████░░░░░░░ 55%
+
+💻 Software Development     █████████░░░░░░░░░ 45%
+```
+
+---
+
+## 🇧🇩 Professional Journey
+
+```text
+                 🇧🇩 Bangladesh
+                        │
+                        ▼
+           🎓 Academic Excellence
+                        │
+                        ▼
+              📊 Data Science
+                        │
+                        ▼
+           🤖 Machine Learning
+                        │
+                        ▼
+           🧠 Artificial Intelligence
+                        │
+                        ▼
+                 🔬 Research
+                        │
+                        ▼
+              🚀 Innovation
+                        │
+                        ▼
+        👨‍🏫 Faculty / Data Scientist
+```
+
+---
+
+## 💡 Personal Philosophy
+
+<div align="center">
+
+> ### "Know Thyself"
+
+*"Knowledge without application is incomplete,
+while application without knowledge is dangerous."*
+
+</div>
+
+---
+
+## 👁 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shafinahmedbd967-art&label=Profile%20Views&color=006A4E&style=for-the-badge"/>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:006A4E,50:F42A41,100:006A4E"/>
+
+</div>
+
+---
+
+## 🔮 Professional Aspirations
+
+```text
+📍 Goal Hierarchy:
+
+🇧🇩 Short-Term
+ └── Secure a Research Assistant or Junior Data Scientist Position
+
+🌏 Mid-Term
+ └── Become an AI Engineer / Data Scientist
+
+🎓 Long-Term
+ └── Establish a Career as an Academic Faculty Member,
+     Researcher, and Industry Innovator
+```
 ### 👁 Profile Visitors
 
 <img src="https://komarev.com/ghpvc/?username=shafinahmedbd967-art&label=Profile+Views&color=2563EB&style=for-the-badge"/>
