@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006A4E,100:F42A41&height=200&section=header&text=SHAFIN%20AHMED&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Research&descAlignY=55&descSize=18&descColor=FFF3E0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=006A4E&center=true&vCenter=true&width=600&lines=CSE+Undergrade+DIU Z;Aspiring+Data+Scientist+%2F+AI+Engineer;%22Know+Thyself%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=006A4E&center=true&vCenter=true&width=600&lines=CSE+Undergraduate+at+DIU;Aspiring+Data+Scientist+%2F+AI+Engineer;%22Know+Thyself%22" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shafinahmedbd967-art&color=F42A41&style=for-the-badge&label=PROFILE+VIEWS)
 
