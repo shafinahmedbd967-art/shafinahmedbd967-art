@@ -50,6 +50,11 @@ I am **Shafin Ahmed**, a Computer Science and Engineering student passionate abo
 
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafinahmedbd967-art&theme=custom&background=FFFFFF00&hide_border=true&ring=006A4E&fire=F42A41&currStreakNum=FFC72C&sideNums=006A4E&sideLabels=333333&currStreakLabel=F42A41" width="100%" />
+</div>
+
+---
+<div align="center">
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafinahmedbd967-art&theme=minimal&hide_border=true&bg_color=FFFFFF00&color=006A4E&line=F42A41&point=006A4E" width="100%" />
 </div>
